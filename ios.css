@@ -113,7 +113,6 @@ footer {
   margin: 0 0 40px 0;
 }
 .button-link {
-  margin-top: 10px;
   box-sizing: border-box;
   display: flex;
   flex-direction: row;
@@ -121,13 +120,13 @@ footer {
   align-items: center;
   padding: 10px;
   width: 320px;
-  background: #ffffff;
-  border-radius: 10px;
+  background: #cb782f;
+  border-radius: 20px;
 
   font-size: 14px;
   line-height: 1.4;
 
-  color: #0c79ff;
+  color: #ffffff;
   text-decoration: none;
 }
 
